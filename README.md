@@ -28,3 +28,4 @@ tools       macOS · Notion · LaTeX
 ```bash
 $ ls ~/projects
 ```
+**MacroBara** 🦫 — Zen-driven nutrition & metabolic health companion for iOS built with Swift 6, SwiftUI, SwiftData, HealthKit, and Swift Charts. Features dynamic Apple Watch TDEE deficit tracking, glycemic safety monitoring (<40g sugar), AI meal parsing via Google Gemini, physiological feedback, and WidgetKit home widgets.
